@@ -1,6 +1,6 @@
 Name:		texlive-albatross
-Version:	61175
-Release:	2
+Version:	65647
+Release:	1
 Summary:	Find fonts that contain a given glyph
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/albatross
