@@ -1,5 +1,5 @@
 Name:		texlive-albatross
-Version:	65647
+Version:	69879
 Release:	1
 Summary:	Find fonts that contain a given glyph
 Group:		Publishing
