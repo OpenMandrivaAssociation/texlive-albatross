@@ -3,7 +3,7 @@ Version:	69879
 Release:	1
 Summary:	Find fonts that contain a given glyph
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/albatross
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/albatross
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/albatross.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/albatross.doc.r%{version}.tar.xz
