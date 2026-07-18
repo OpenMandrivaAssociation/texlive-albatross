@@ -1,5 +1,6 @@
 %global tl_name albatross
 %global tl_revision 79618
+%global tl_bin_links albatross:%{_texmfdistdir}/scripts/albatross/albatross.sh
 
 Name:		texlive-%{tl_name}
 Epoch:		1
@@ -16,6 +17,8 @@ BuildArch:	noarch
 BuildSystem:	texlive
 Requires:	texlive(albatross.bin)
 Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}.bin) = %{tl_revision}
+Provides:	texlive-%{tl_name}.bin = %{EVRD}
 
 %description
 This is a command line tool for finding fonts that contain a given
